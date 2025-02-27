@@ -78,21 +78,6 @@ a:hover {
 
 
 
-/* public boolean makeBricks(int small, int big, int goal) 
-{
-  
-  if(small >= goal)
-  {
-    return true;
-  }
-  
-  if( big * 5 + small >= goal)
-  {
-    return true;
-  }
-  
-  // faling test is (3,2,9)...  with 3 small and 2 big, we can make
-  // 1 2 3 (not 4) 5 6 7 8 (not 9) 10 11 12 13
-  
- return false; 
-} */
+
+ 
+ 
