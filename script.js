@@ -1,30 +1,30 @@
 const Questions = [
     {
-        q: "Fill in the blank: Snow leopards live _____.",
-        a: [{text: "in the desert.", isCorrect: false},
-            {text: "in the jungle.", isCorrect: false},
-            {text: "in the mountains.", isCorrect: true},
-            {text: "in the city.", isCorrect: false},
+        q: "Fill in the blank: Vendors Row is a _____.",
+        a: [{text: "Dune", isCorrect: false},
+            {text: "Beach", isCorrect: false},
+            {text: "Mall", isCorrect: true},
+            {text: "Type of vehicle", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        q: "Choose An Answer Below: What other activites do they have at the swingset?",
+        a: [{text: "basketball", isCorrect: false},
+            {text: "volleyball ", isCorrect: true},
+            {text: "a swim meet", isCorrect: false},
+            {text: " a barbeque", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "killing their prey.", isCorrect: false},
-            {text: "grabbing objects.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "Fill in the blank: You can get emergency supplies from _____.",
+        a: [{text: "Carlas Bench", isCorrect: true},
+            {text: "Satalitte", isCorrect: false},
+            {text: "Oldsmobile", isCorrect: false},
+            {text: "Disco Ball", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
+        q: "Choose An Answer Below: .",
         a: [{text: "frogs.", isCorrect: false},
             {text: "fish.", isCorrect: false},
             {text: "lions.", isCorrect: false},
