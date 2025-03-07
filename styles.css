@@ -1,5 +1,5 @@
 html {
-    color: slategray;
+    color: rgb(9, 11, 12);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
     background-image: url(images/photo0jpg.jpg);
@@ -24,12 +24,12 @@ body {
 }
 
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(123, 81, 39);
     font: bold 50px sans-serif;
 }
 
 h2 {
-    color: rgb(0, 0, 0);
+    color: rgb(77, 60, 12);
     font-family: sans-serif;
 }
 
@@ -63,21 +63,14 @@ a {
 }
 
 a:link {
-    color:white;
+    color:rgb(12, 12, 12);
 }
 
 a:visited {
-    color: white;
+    color: rgb(19, 19, 19);
 }
 
 a:hover {
-    color: black;
+    color: rgb(255, 251, 251);
     font-size: 15px;
 }
-
-
-
-
-
- 
- 

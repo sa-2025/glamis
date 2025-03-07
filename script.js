@@ -24,11 +24,11 @@ const Questions = [
            ]
     },
     {
-        q: "Choose An Answer Below: .",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "Choose An Answer Below: Which Holiday is the Most Popular Time to Visit Glamis. .",
+        a: [{text: "Halloween", isCorrect: false},
+            {text: "Valentines", isCorrect: false},
+            {text: "Presidents Weekend", isCorrect: false},
+            {text: "New Years", isCorrect: true},
            ]
     },
     
