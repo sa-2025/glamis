@@ -24,11 +24,27 @@ const Questions = [
            ]
     },
     {
-        q: "Choose An Answer Below: Which Holiday is the Most Popular Time to Visit Glamis. .",
+        q: "Choose An Answer Below: Which Holiday is the Most Popular Time to Visit Glamis?",
         a: [{text: "Halloween", isCorrect: false},
             {text: "Valentines", isCorrect: false},
             {text: "Presidents Weekend", isCorrect: false},
             {text: "New Years", isCorrect: true},
+           ]
+    },
+    {
+    q: "Choose An Answer Below: What Year did Polaris Buy Glamis?",
+        a: [{text: "1997", isCorrect: false},
+            {text: "2005", isCorrect: false},
+            {text: "2022", isCorrect: false},
+            {text: "2018", isCorrect: true},
+           ]
+    },
+    {
+        q: "Choose An Answer Below: What hill do Poeple Like racing on?",
+        a: [{text: "Swingset", isCorrect: false},
+            {text: "Oldmobile", isCorrect: true},
+            {text: "Vendors Row", isCorrect: false},
+            {text: "Sunset Hill", isCorrect: false},
            ]
     },
     
