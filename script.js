@@ -42,7 +42,7 @@ const Questions = [
     {
         q: "Choose An Answer Below: What hill do Poeple Like racing on?",
         a: [{text: "Swingset", isCorrect: false},
-            {text: "Oldmobile", isCorrect: true},
+            {text: "Oldsmobile", isCorrect: true},
             {text: "Vendors Row", isCorrect: false},
             {text: "Sunset Hill", isCorrect: false},
            ]
